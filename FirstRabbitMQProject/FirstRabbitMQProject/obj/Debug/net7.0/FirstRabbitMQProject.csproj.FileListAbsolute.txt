@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\FirstRabbitMQProject\FirstRabbitMQProject\bin\Debug\net7.0\FirstRabbitMQProject.exe
+C:\Users\ASUS\Desktop\FirstRabbitMQProject\FirstRabbitMQProject\bin\Debug\net7.0\FirstRabbitMQProject.deps.json
+C:\Users\ASUS\Desktop\FirstRabbitMQProject\FirstRabbitMQProject\bin\Debug\net7.0\FirstRabbitMQProject.runtimeconfig.json
+C:\Users\ASUS\Desktop\FirstRabbitMQProject\FirstRabbitMQProject\bin\Debug\net7.0\FirstRabbitMQProject.dll
+C:\Users\ASUS\Desktop\FirstRabbitMQProject\FirstRabbitMQProject\bin\Debug\net7.0\FirstRabbitMQProject.pdb
+C:\Users\ASUS\Desktop\FirstRabbitMQProject\FirstRabbitMQProject\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\ASUS\Desktop\FirstRabbitMQProject\FirstRabbitMQProject\obj\Debug\net7.0\FirstRabbitMQProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\FirstRabbitMQProject\FirstRabbitMQProject\obj\Debug\net7.0\FirstRabbitMQProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\FirstRabbitMQProject\FirstRabbitMQProject\obj\Debug\net7.0\FirstRabbitMQProject.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\FirstRabbitMQProject\FirstRabbitMQProject\obj\Debug\net7.0\FirstRabbitMQProject.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\FirstRabbitMQProject\FirstRabbitMQProject\obj\Debug\net7.0\FirstRabbitMQProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\FirstRabbitMQProject\FirstRabbitMQProject\obj\Debug\net7.0\FirstRabbitMQProject.csproj.CopyComplete
+C:\Users\ASUS\Desktop\FirstRabbitMQProject\FirstRabbitMQProject\obj\Debug\net7.0\FirstRabbitMQProject.dll
+C:\Users\ASUS\Desktop\FirstRabbitMQProject\FirstRabbitMQProject\obj\Debug\net7.0\refint\FirstRabbitMQProject.dll
+C:\Users\ASUS\Desktop\FirstRabbitMQProject\FirstRabbitMQProject\obj\Debug\net7.0\FirstRabbitMQProject.pdb
+C:\Users\ASUS\Desktop\FirstRabbitMQProject\FirstRabbitMQProject\obj\Debug\net7.0\FirstRabbitMQProject.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\FirstRabbitMQProject\FirstRabbitMQProject\obj\Debug\net7.0\ref\FirstRabbitMQProject.dll
