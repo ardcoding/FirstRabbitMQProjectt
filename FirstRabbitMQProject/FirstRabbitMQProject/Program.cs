@@ -25,18 +25,20 @@ class FirstRabbitMQProject
     static void SendMessage()
     {
         var factory = new ConnectionFactory();
+        var msgqueue = "msg-queue";
 
-        factory.Uri = new Uri("amqps://udcnxpyu:9YDgfobQNo9V8Ld1AogZ3iiVCyzpJXR1@gull.rmq.cloudamqp.com/udcnxpyu");
+        factory.Uri = new Uri("cloudmqp urlsi");
 
         using var connection = factory.CreateConnection();
         var channel = connection.CreateModel();
 
-        channel.QueueDeclare("msg-queue", true, false, false);
+        channel.QueueDeclare(msgqueue, true, false, false);//memory hariç tutulması(true), başka yerden ulaşılabilmesi (false), auto delete (false)
+
 
         var mesaj = "İlk Mesajım";
         var body = Encoding.UTF8.GetBytes(mesaj);
 
-        channel.BasicPublish(String.Empty, "msg-queue", null, body);
+        channel.BasicPublish(String.Empty, msgqueue, null, body);//exchange => String.Empty(exchange göndermedik), routingKey (msgqueue ddeğişkeni), basic properties, body
 
         Console.WriteLine("Mesaj Gönderildi");
         Console.ReadLine();

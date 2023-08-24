@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProject\\FirstRabbitMQProject\\FirstRabbitMQProject.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProjectt\\FirstRabbitMQProject\\FirstRabbitMQProject\\FirstRabbitMQProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProject\\FirstRabbitMQProject\\FirstRabbitMQProject.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProjectt\\FirstRabbitMQProject\\FirstRabbitMQProject\\FirstRabbitMQProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProject\\FirstRabbitMQProject\\FirstRabbitMQProject.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProjectt\\FirstRabbitMQProject\\FirstRabbitMQProject\\FirstRabbitMQProject.csproj",
         "projectName": "FirstRabbitMQProject",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProject\\FirstRabbitMQProject\\FirstRabbitMQProject.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProjectt\\FirstRabbitMQProject\\FirstRabbitMQProject\\FirstRabbitMQProject.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProject\\FirstRabbitMQProject\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProjectt\\FirstRabbitMQProject\\FirstRabbitMQProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

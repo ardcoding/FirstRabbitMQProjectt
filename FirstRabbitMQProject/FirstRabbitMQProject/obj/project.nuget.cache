@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7EwGx8ILhKOinQaUaqBIDDXMPklCopPfDeOrrh3Q3ktw2vQ6CqsBFANXUyB2RZlh44eyioOhdFTBp0ooBnV1wg==",
+  "dgSpecHash": "x5C5zLtQRxlAOUuW62gKSIMS2BaYJfMZaDWl23zk/xUP9b/8RHBBN9x0qBu439I/QTkZctAFjgpyKmQDNo/7mA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProject\\FirstRabbitMQProject\\FirstRabbitMQProject.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProjectt\\FirstRabbitMQProject\\FirstRabbitMQProject\\FirstRabbitMQProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",

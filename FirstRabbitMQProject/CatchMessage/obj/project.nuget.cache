@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DJgnTGlqRn1tCYqpr3HpQy4rcbpgU8DlIMJ60MHwakX0eUU/LLb/8KyzFSGt8Ein+F0/UqpEoBq/DBVHRQ8kdg==",
+  "dgSpecHash": "j32s3EsGtv9pGnimCtyPZ7R9KRTVJjlMkF+YbMriRW61iVSk5iEolZjM1+hbkrjyvtyyPEmZqr5//Sx2daoBNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProject\\CatchMessage\\CatchMessage.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProjectt\\FirstRabbitMQProject\\CatchMessage\\CatchMessage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",

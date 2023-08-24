@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProject\\CatchMessage\\CatchMessage.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProjectt\\FirstRabbitMQProject\\CatchMessage\\CatchMessage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProject\\CatchMessage\\CatchMessage.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProjectt\\FirstRabbitMQProject\\CatchMessage\\CatchMessage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProject\\CatchMessage\\CatchMessage.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProjectt\\FirstRabbitMQProject\\CatchMessage\\CatchMessage.csproj",
         "projectName": "CatchMessage",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProject\\CatchMessage\\CatchMessage.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProjectt\\FirstRabbitMQProject\\CatchMessage\\CatchMessage.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProject\\CatchMessage\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\FirstRabbitMQProjectt\\FirstRabbitMQProject\\CatchMessage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

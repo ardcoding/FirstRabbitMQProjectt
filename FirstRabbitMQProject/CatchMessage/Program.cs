@@ -5,17 +5,18 @@ using System;
 using System.Text;
 
 var factory = new ConnectionFactory();
-factory.Uri = new Uri("amqps://udcnxpyu:9YDgfobQNo9V8Ld1AogZ3iiVCyzpJXR1@gull.rmq.cloudamqp.com/udcnxpyu");
+factory.Uri = new Uri("cloudmqp urlsi");
 
 
 using var connection =  factory.CreateConnection();
 var channel = connection.CreateModel();
+var msgqueue = "msgqueue";
 
-channel.QueueDeclare("msg-queue", true, false, false);
+channel.QueueDeclare(msgqueue, true, false, false);
 
 var consumer = new EventingBasicConsumer(channel);
 
-channel.BasicConsume("msg-queue", true, consumer);
+channel.BasicConsume(msgqueue, true, consumer);
 
 consumer.Received += Consumer_Received;
 
